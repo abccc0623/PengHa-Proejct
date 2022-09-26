@@ -1,0 +1,16 @@
+{
+   "DATA_0" : {
+      "FRAME" : [ 8 ]
+   },
+   "DATA_1" : {
+      "FRAME" : [ 8 ]
+   },
+   "DATA_2" : {
+      "FRAME" : [ 8 ]
+   },
+   "TITLE" : {
+      "IMGNAME" : [ "pg_shoot_body.png" ],
+      "SIZE" : [ 3 ],
+      "TOTALFRAME" : [ 45 ]
+   }
+}

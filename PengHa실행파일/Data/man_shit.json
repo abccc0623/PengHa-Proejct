@@ -1,0 +1,19 @@
+{
+   "DATA_0" : {
+      "FRAME" : [ 3 ]
+   },
+   "DATA_1" : {
+      "FRAME" : [ 3 ]
+   },
+   "DATA_2" : {
+      "FRAME" : [ 3 ]
+   },
+   "DATA_3" : {
+      "FRAME" : [ 3 ]
+   },
+   "TITLE" : {
+      "IMGNAME" : [ "man_shit.png" ],
+      "SIZE" : [ 4 ],
+      "TOTALFRAME" : [ 12 ]
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "DATA_0" : {
+      "FRAME" : [ 10 ]
+   },
+   "DATA_1" : {
+      "FRAME" : [ 10 ]
+   },
+   "DATA_2" : {
+      "FRAME" : [ 10 ]
+   },
+   "DATA_3" : {
+      "FRAME" : [ 10 ]
+   },
+   "TITLE" : {
+      "IMGNAME" : [ "man_idle.png" ],
+      "SIZE" : [ 4 ],
+      "TOTALFRAME" : [ 40 ]
+   }
+}

@@ -1,0 +1,318 @@
+{
+   "DATA_" : {
+      "BACKIMGNAME" : [ "Stage1_map.png" ],
+      "BACKIMGPATH" : [ "../../4_Resources/Stage1_map.png" ]
+   },
+   "R_DATA_" : {
+      "COUNT" : [ 34 ]
+   },
+   "R_DATA_0" : {
+      "ATTRIBUTE" : [ 0 ],
+      "IMGNAME" : [ "" ],
+      "IMGPATH" : [ "" ],
+      "PLATFORMNUM" : [ 0 ],
+      "POSITION" : [ 2792, 548 ],
+      "SIZE" : [ 4800, 96 ]
+   },
+   "R_DATA_1" : {
+      "ATTRIBUTE" : [ 0 ],
+      "IMGNAME" : [ "" ],
+      "IMGPATH" : [ "" ],
+      "PLATFORMNUM" : [ 0 ],
+      "POSITION" : [ 2375, 1030 ],
+      "SIZE" : [ 4750, 96 ]
+   },
+   "R_DATA_10" : {
+      "ATTRIBUTE" : [ 1 ],
+      "IMGNAME" : [ "oj_box01.png" ],
+      "IMGPATH" : [ "../../4_Resources/oj_box01.png" ],
+      "POSITION" : [ 5100, 320 ],
+      "SIZE" : [ 120, 120 ]
+   },
+   "R_DATA_11" : {
+      "ATTRIBUTE" : [ 1 ],
+      "IMGNAME" : [ "oj_box01.png" ],
+      "IMGPATH" : [ "../../4_Resources/oj_box01.png" ],
+      "POSITION" : [ 4980, 320 ],
+      "SIZE" : [ 120, 120 ]
+   },
+   "R_DATA_12" : {
+      "ATTRIBUTE" : [ 2 ],
+      "IMGNAME" : [ "oj_box02.png" ],
+      "IMGPATH" : [ "../../4_Resources/oj_box02.png" ],
+      "POSITION" : [ 1840, 410 ],
+      "SIZE" : [ 180, 180 ]
+   },
+   "R_DATA_13" : {
+      "ATTRIBUTE" : [ 2 ],
+      "IMGNAME" : [ "oj_box02.png" ],
+      "IMGPATH" : [ "../../4_Resources/oj_box02.png" ],
+      "POSITION" : [ 2620, 892 ],
+      "SIZE" : [ 180, 180 ]
+   },
+   "R_DATA_14" : {
+      "ATTRIBUTE" : [ 2 ],
+      "IMGNAME" : [ "oj_box02.png" ],
+      "IMGPATH" : [ "../../4_Resources/oj_box02.png" ],
+      "POSITION" : [ 1065, 892 ],
+      "SIZE" : [ 180, 180 ]
+   },
+   "R_DATA_15" : {
+      "ATTRIBUTE" : [ 2 ],
+      "IMGNAME" : [ "oj_box02.png" ],
+      "IMGPATH" : [ "../../4_Resources/oj_box02.png" ],
+      "POSITION" : [ 3065, 410 ],
+      "SIZE" : [ 180, 180 ]
+   },
+  "R_DATA_16": {
+    "ATTRIBUTE": [ 3 ],
+    "HIDEBOXTYPE": [ 0 ],
+    "IMGNAME": [ "" ],
+    "IMGPATH": [ "" ],
+    "POSITION": [ 512, 1740 ],
+    "SIZE": [ 180, 240 ]
+  },
+  "R_DATA_17": {
+    "ATTRIBUTE": [ 3 ],
+    "HIDEBOXTYPE": [ 0 ],
+    "IMGNAME": [ "" ],
+    "IMGPATH": [ "" ],
+    "POSITION": [ 1473, 1740 ],
+    "SIZE": [ 180, 240 ]
+  },
+  "R_DATA_18": {
+    "ATTRIBUTE": [ 3 ],
+    "HIDEBOXTYPE": [ 0 ],
+    "IMGNAME": [ "" ],
+    "IMGPATH": [ "" ],
+    "POSITION": [ 2979, 1740 ],
+    "SIZE": [ 180, 240 ]
+  },
+  "R_DATA_19": {
+    "ATTRIBUTE": [ 3 ],
+    "HIDEBOXTYPE": [ 0 ],
+    "IMGNAME": [ "" ],
+    "IMGPATH": [ "" ],
+    "POSITION": [ 3467, 1740 ],
+    "SIZE": [ 180, 240 ]
+  },
+   "R_DATA_2" : {
+      "ATTRIBUTE" : [ 0 ],
+      "IMGNAME" : [ "" ],
+      "IMGPATH" : [ "" ],
+      "PLATFORMNUM" : [ 0 ],
+      "POSITION" : [ 2880, 1966 ],
+      "SIZE" : [ 5760, 212 ]
+   },
+  "R_DATA_20": {
+    "ATTRIBUTE": [ 3 ],
+    "HIDEBOXTYPE": [ 0 ],
+    "IMGNAME": [ "" ],
+    "IMGPATH": [ "" ],
+    "POSITION": [ 2492, 1740 ],
+    "SIZE": [ 180, 240 ]
+  },
+   "R_DATA_21" : {
+      "ATTRIBUTE" : [ 4 ],
+      "IMGNAME" : [ "light_on.png" ],
+      "IMGPATH" : [ "../../4_Resources/light_on.png" ],
+      "LITELEFTANGLE" : [ 0 ],
+      "LITERANGE" : [ 350 ],
+      "LITERIGHTANGLE" : [ 0 ],
+      "LITESPEED" : [ 0 ],
+      "LITEVIEWANGLE" : [ 70 ],
+      "POSITION" : [ 2488, 1576 ],
+      "SIZE" : [ 80, 48 ]
+   },
+   "R_DATA_22" : {
+      "ATTRIBUTE" : [ 4 ],
+      "IMGNAME" : [ "light_on.png" ],
+      "IMGPATH" : [ "../../4_Resources/light_on.png" ],
+      "LITELEFTANGLE" : [ 0 ],
+      "LITERANGE" : [ 350 ],
+      "LITERIGHTANGLE" : [ 0 ],
+      "LITESPEED" : [ 0 ],
+      "LITEVIEWANGLE" : [ 70 ],
+      "POSITION" : [ 3465, 1576 ],
+      "SIZE" : [ 80, 48 ]
+   },
+   "R_DATA_23" : {
+      "ATTRIBUTE" : [ 4 ],
+      "IMGNAME" : [ "light_on.png" ],
+      "IMGPATH" : [ "../../4_Resources/light_on.png" ],
+      "LITELEFTANGLE" : [ 0 ],
+      "LITERANGE" : [ 350 ],
+      "LITERIGHTANGLE" : [ 0 ],
+      "LITESPEED" : [ 0 ],
+      "LITEVIEWANGLE" : [ 70 ],
+      "POSITION" : [ 1473, 1576 ],
+      "SIZE" : [ 80, 48 ]
+   },
+   "R_DATA_24" : {
+      "ATTRIBUTE" : [ 6 ],
+      "CCTVNUMBER" : [ 0 ],
+      "IMGNAME" : [ "" ],
+      "IMGPATH" : [ "" ],
+      "LITELEFTANGLE" : [ 0 ],
+      "LITERANGE" : [ 0 ],
+      "LITERIGHTANGLE" : [ 0 ],
+      "LITESPEED" : [ 0 ],
+      "LITEVIEWANGLE" : [ 0 ],
+      "POSITION" : [ 24, 1074 ],
+      "SIZE" : [ 44, 46 ]
+   },
+   "R_DATA_25" : {
+      "ATTRIBUTE" : [ 6 ],
+      "CCTVNUMBER" : [ 0 ],
+      "IMGNAME" : [ "" ],
+      "IMGPATH" : [ "" ],
+      "LITELEFTANGLE" : [ 0 ],
+      "LITERANGE" : [ 0 ],
+      "LITERIGHTANGLE" : [ 0 ],
+      "LITESPEED" : [ 0 ],
+      "LITEVIEWANGLE" : [ 0 ],
+      "POSITION" : [ 0, 1066 ],
+      "SIZE" : [ 30, 30 ]
+   },
+   "R_DATA_26" : {
+      "ATTRIBUTE" : [ 6 ],
+      "CCTVNUMBER" : [ 1 ],
+      "IMGNAME" : [ "" ],
+      "IMGPATH" : [ "" ],
+      "LITELEFTANGLE" : [ 30 ],
+      "LITERANGE" : [ 530 ],
+      "LITERIGHTANGLE" : [ 30 ],
+      "LITESPEED" : [ 0.3 ],
+      "LITEVIEWANGLE" : [ 20 ],
+      "POSITION" : [ 2490, 136 ],
+      "SIZE" : [ 80, 80 ]
+   },
+   "R_DATA_27" : {
+      "ATTRIBUTE" : [ 7 ],
+      "IMGNAME" : [ "" ],
+      "IMGPATH" : [ "" ],
+      "POSITION" : [ 4980, 1047 ],
+      "SIZE" : [ 316, 892 ]
+   },
+   "R_DATA_28" : {
+      "ATTRIBUTE" : [ 7 ],
+      "IMGNAME" : [ "" ],
+      "IMGPATH" : [ "" ],
+      "POSITION" : [ 191, 541 ],
+      "SIZE" : [ 316, 842 ]
+   },
+   "R_DATA_29" : {
+      "ATTRIBUTE" : [ 8 ],
+      "IMGNAME" : [ "" ],
+      "IMGPATH" : [ "" ],
+      "POSITION" : [ 105, 1790 ],
+      "SIZE" : [ 120, 120 ]
+   },
+   "R_DATA_3" : {
+      "ATTRIBUTE" : [ 0 ],
+      "IMGNAME" : [ "" ],
+      "IMGPATH" : [ "" ],
+      "PLATFORMNUM" : [ 0 ],
+      "POSITION" : [ 421, 50 ],
+      "SIZE" : [ 842, 62 ]
+   },
+   "R_DATA_30" : {
+      "AITYPE" : [ 0 ],
+      "ATTRIBUTE" : [ 9 ],
+      "CCTVNUM" : [ 0 ],
+      "DETECTIONSPEED" : [ 11 ],
+      "IMGNAME" : [ "man_ex.png" ],
+      "IMGPATH" : [ "../../4_Resources/man_ex.png" ],
+      "PANICTIME" : [ 90 ],
+      "PATROLRANGE" : [ 2326, 3726 ],
+      "PATROLSIZE" : [ 1400, 250 ],
+      "PATROLSPEED" : [ 3 ],
+      "POSITION" : [ 3026, 1735 ],
+      "SIZE" : [ 150, 250 ],
+      "SUSPICIONSPEED" : [ 3 ]
+   },
+   "R_DATA_31" : {
+      "AITYPE" : [ 0 ],
+      "ATTRIBUTE" : [ 9 ],
+      "CCTVNUM" : [ 0 ],
+      "DETECTIONSPEED" : [ 11 ],
+      "IMGNAME" : [ "man_ex.png" ],
+      "IMGPATH" : [ "../../4_Resources/man_ex.png" ],
+      "PANICTIME" : [ 90 ],
+      "PATROLRANGE" : [ 410, 2310 ],
+      "PATROLSIZE" : [ 1900, 250 ],
+      "PATROLSPEED" : [ 3 ],
+      "POSITION" : [ 1360, 857 ],
+      "SIZE" : [ 150, 250 ],
+      "SUSPICIONSPEED" : [ 3 ]
+   },
+   "R_DATA_32" : {
+      "AITYPE" : [ 0 ],
+      "ATTRIBUTE" : [ 9 ],
+      "CCTVNUM" : [ 1 ],
+      "DETECTIONSPEED" : [ 11 ],
+      "IMGNAME" : [ "man_ex.png" ],
+      "IMGPATH" : [ "../../4_Resources/man_ex.png" ],
+      "PANICTIME" : [ 90 ],
+      "PATROLRANGE" : [ 1749, 4049 ],
+      "PATROLSIZE" : [ 2300, 250 ],
+      "PATROLSPEED" : [ 3 ],
+      "POSITION" : [ 2899, 375 ],
+      "SIZE" : [ 150, 250 ],
+      "SUSPICIONSPEED" : [ 3 ]
+   },
+   "R_DATA_33" : {
+      "ATTRIBUTE" : [ 13 ],
+      "IMGNAME" : [ "" ],
+      "IMGPATH" : [ "" ],
+      "POSITION" : [ 5536, 182 ],
+      "SIZE" : [ 166, 294 ]
+   },
+   "R_DATA_4" : {
+      "ATTRIBUTE" : [ 0 ],
+      "IMGNAME" : [ "" ],
+      "IMGPATH" : [ "" ],
+      "PLATFORMNUM" : [ 0 ],
+      "POSITION" : [ 5460, 1104 ],
+      "SIZE" : [ 598, 1580 ]
+   },
+   "R_DATA_5" : {
+      "ATTRIBUTE" : [ 0 ],
+      "IMGNAME" : [ "" ],
+      "IMGPATH" : [ "" ],
+      "PLATFORMNUM" : [ 0 ],
+      "POSITION" : [ 15, 1049 ],
+      "SIZE" : [ 30, 2058 ]
+   },
+   "R_DATA_6" : {
+      "ATTRIBUTE" : [ 1 ],
+      "IMGNAME" : [ "oj_box01.png" ],
+      "IMGPATH" : [ "../../4_Resources/oj_box01.png" ],
+      "POSITION" : [ 4439, 1800 ],
+      "SIZE" : [ 120, 120 ]
+   },
+   "R_DATA_7" : {
+      "ATTRIBUTE" : [ 1 ],
+      "IMGNAME" : [ "oj_box01.png" ],
+      "IMGPATH" : [ "../../4_Resources/oj_box01.png" ],
+      "POSITION" : [ 4980, 440 ],
+      "SIZE" : [ 120, 120 ]
+   },
+   "R_DATA_8" : {
+      "ATTRIBUTE" : [ 1 ],
+      "IMGNAME" : [ "oj_box01.png" ],
+      "IMGPATH" : [ "../../4_Resources/oj_box01.png" ],
+      "POSITION" : [ 4860, 440 ],
+      "SIZE" : [ 120, 120 ]
+   },
+   "R_DATA_9" : {
+      "ATTRIBUTE" : [ 1 ],
+      "IMGNAME" : [ "oj_box01.png" ],
+      "IMGPATH" : [ "../../4_Resources/oj_box01.png" ],
+      "POSITION" : [ 5100, 440 ],
+      "SIZE" : [ 120, 120 ]
+   },
+   "T_DATA_" : {
+      "COUNT" : [ 0 ]
+   }
+}

@@ -1,0 +1,55 @@
+{
+  "DATA_0": {
+    "FRAME": [ 8 ]
+  },
+  "DATA_1": {
+    "FRAME": [ 8 ]
+  },
+  "DATA_10": {
+    "FRAME": [ 8 ]
+  },
+  "DATA_11": {
+    "FRAME": [ 8 ]
+  },
+  "DATA_12": {
+    "FRAME": [ 8 ]
+  },
+  "DATA_13": {
+    "FRAME": [ 8 ]
+  },
+  "DATA_14": {
+    "FRAME": [ 8 ]
+  },
+  "DATA_15": {
+    "FRAME": [ 8 ]
+  },
+  "DATA_2": {
+    "FRAME": [ 8 ]
+  },
+  "DATA_3": {
+    "FRAME": [ 8 ]
+  },
+  "DATA_4": {
+    "FRAME": [ 8 ]
+  },
+  "DATA_5": {
+    "FRAME": [ 8 ]
+  },
+  "DATA_6": {
+    "FRAME": [ 8 ]
+  },
+  "DATA_7": {
+    "FRAME": [ 8 ]
+  },
+  "DATA_8": {
+    "FRAME": [ 8 ]
+  },
+  "DATA_9": {
+    "FRAME": [ 8 ]
+  },
+  "TITLE": {
+    "IMGNAME": [ "man2_idle_question.png" ],
+    "SIZE": [ 16 ],
+    "TOTALFRAME": [ 128 ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "DATA_0": {
+    "FRAME": [ 3 ]
+  },
+  "DATA_1": {
+    "FRAME": [ 3 ]
+  },
+  "DATA_2": {
+    "FRAME": [ 3 ]
+  },
+  "DATA_3": {
+    "FRAME": [ 3 ]
+  },
+  "DATA_4": {
+    "FRAME": [ 3 ]
+  },
+  "DATA_5": {
+    "FRAME": [ 3 ]
+  },
+  "DATA_6": {
+    "FRAME": [ 3 ]
+  },
+  "DATA_7": {
+    "FRAME": [ 3 ]
+  },
+  "DATA_8": {
+    "FRAME": [ 3 ]
+  },
+  "TITLE": {
+    "IMGNAME": [ "man2_run.png" ],
+    "SIZE": [ 9 ],
+    "TOTALFRAME": [ 27 ]
+  }
+}

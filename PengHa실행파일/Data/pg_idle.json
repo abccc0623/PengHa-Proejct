@@ -1,0 +1,25 @@
+{
+   "DATA_0" : {
+      "FRAME" : [ 4 ]
+   },
+   "DATA_1" : {
+      "FRAME" : [ 4 ]
+   },
+   "DATA_2" : {
+      "FRAME" : [ 4 ]
+   },
+   "DATA_3" : {
+      "FRAME" : [ 4 ]
+   },
+   "DATA_4" : {
+      "FRAME" : [ 4 ]
+   },
+   "DATA_5" : {
+      "FRAME" : [ 4 ]
+   },
+   "TITLE" : {
+      "IMGNAME" : [ "pg_idle.png" ],
+      "SIZE" : [ 6 ],
+      "TOTALFRAME" : [ 24 ]
+   }
+}
